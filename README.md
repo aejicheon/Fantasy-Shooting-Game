@@ -26,7 +26,7 @@ VR/AR 게임제작기초 Unity Project
   </ul>
 </ul>
 
-<h3>결과</h3><br>
+<h3>결과</h3>
 <h4>Basic Monster</h4>
 <img src="https://github.com/user-attachments/assets/3772db16-7322-4a7d-87c3-1ef5a4708e72" width="500" height="250">
 <h4>Ctrl Skill</h4>
