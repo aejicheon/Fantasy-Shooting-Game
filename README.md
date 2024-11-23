@@ -26,7 +26,8 @@ VR/AR 게임제작기초 Unity Project
   </ul>
 </ul>
 
-<h3>결</h3>
+<h3>결과</h3><br>
+<h4></h4>
 <img src="https://github.com/user-attachments/assets/3772db16-7322-4a7d-87c3-1ef5a4708e72" width="500" height="250">
 <img src="https://github.com/user-attachments/assets/40046658-280e-4032-8e42-f8c04a28614b" width="500" height="250">
 <img src="https://github.com/user-attachments/assets/0f632036-bbd6-4f9f-82be-309a7f876eb8" width="500" height="250">
